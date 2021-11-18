@@ -1,4 +1,3 @@
 import tensorflow as tf
 
-
-tf.a
+tf.a('eeawd');
